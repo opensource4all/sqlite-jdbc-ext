@@ -15,4 +15,4 @@ For maven repository, use:
 	            <updatePolicy>always</updatePolicy>
 	        </snapshots>
 	    </repository>
-	f</repositories>
+	</repositories>
