@@ -195,7 +195,6 @@
     <url>https://github.com/opensource4all/sqlite-jdbc-ext</url>
   </scm>
 
-
   <profiles>
     <profile>
       <id>release-sign-artifacts</id>
