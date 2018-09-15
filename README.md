@@ -1,8 +1,7 @@
 # sqlite-jdbc-ext
 
-new experimental driver with additional extensions for encryption and compression.
-to use, use the following for maven repository:
-For maven repository, use:
+New and experimental driver extension to sqlite-jdbc with additional capabilities for encryption and compression.
+To use, for maven repository:
 
 	<repositories>
 	    <repository>
